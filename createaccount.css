@@ -1,0 +1,242 @@
+/* * {
+    padding: 0%;
+    margin: 0%;
+    border: none;
+}
+.form-row {
+    width: 35%;
+    position: relative;
+    right: 35%;
+    bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+    height: 80%;
+    margin: auto auto;
+    background-image: url(./img/background.69985521.jpg);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-family: "robboto",sans-serif;
+    color: #ff4200;
+}
+#subtile {
+    display: flex;
+    justify-content: center;
+    font-family: "poppins",sans-serif;
+    font-size: larger;
+    color: #958e8e;
+}
+.input-1 {
+    display: grid;
+    justify-content: center;
+}
+.input-2 {
+    margin-top: 25px;
+    width: 23rem;
+    border-radius: 5px;
+    height: 30px;
+    font-size: small;
+    padding: 10px;
+}
+.input-3 {
+    margin-top: 25px;
+    width: 23rem;
+    border-radius: 5px;
+    height: 30px;
+    font-size: small;
+    padding: 10px;
+}
+.terms-container {
+    margin-top: 25px;
+    color: #958e8e;
+    font-family: "roboto",sans-serif;
+    margin-left: 30px;
+}
+.terms-container i{
+    color: #ff4200;
+}
+.terms-container p{
+    margin-left: 5px;
+}
+
+.terms-check {
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+.inputs-input {
+    display: grid;
+    justify-content: center;
+    margin-top: 25px;
+    margin-right: 30px;
+}
+.DOB {
+    width: 23rem;
+    border-radius: 5px;
+    height: 30px;
+    padding: 10px;
+}
+.checkbox-container {
+     position: absolute;
+    left: 55px;
+    width: 300px;
+    text-align: center;
+    margin-top: 25px;
+    font-family: "poppins",sans-serif;
+    font-size: small;
+    color: #958e8e;
+}
+.checkbox-container a{
+    color: #ff4200;
+}
+.line {
+    width: 90%;
+    margin-left: 25px;
+    border: 1px solid #958e8e;
+    border-top: 0.3px;
+    margin-top: 25%;
+}
+
+.btn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+button {
+    margin-top: 30px;
+    width: 150px;
+    height: 40px;
+    margin-right: 30px;
+    border : 5;
+    border-radius: 5px;
+}
+a {
+    text-decoration: none;
+    color: #1d1c1c;
+    
+}
+i {
+   color: #1d1c1c;
+} */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 270px;
+    margin-bottom: 10px;
+}
+
+#btn button {
+    background-color: black;
+}
+
+button i {
+    color: #ff4200;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 50px; */
+}
+.create-account {
+border: none;
+width: 40vw;
+height: 80vh;
+display: flex;
+justify-content: center;
+background-image: url(./img/background.69985521.jpg);
+border-radius: 10px;
+}
+h2 {
+    margin: 20px;
+    font-family: "poppins",sans-serif;
+    color: #ff4200;
+    font-size: large;
+}
+#p1 {
+    font-family: "poppins",sans-serif;
+    color: #958e8e;
+    font-size: larger;
+}
+.input {
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    width: 400px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+}
+
+input {
+    opacity: 1;
+    border: black;
+}
+.characters {
+    color: #958e8e;
+    font-family: "poppins",sans-serif;
+    font-size: small;
+    margin-left: 10px;
+}
+
+.DOB {
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    width: 400px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+}
+
+#checkbox {
+    color: #958e8e;
+    font-size: small;
+    font-family: "poppins",sans-serif;
+}
+
+#checkbox p{
+    margin-left: 15px;
+ }
+
+a {
+    text-decoration: none;
+    color: #ff4200;
+    
+}
+#checkbox-2{
+    margin-left: 0.5px;
+}
+
+.line {
+   border: solid;
+   margin-top: 30px;
+   width: 100%;
+   border: 1px solid #958e8e;
+   border-top: 0.3px;
+}
+
+#btn-1 {
+    display: flex;
+    justify-content: end;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    border : none;
+    border-radius: 5px;
+}
